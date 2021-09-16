@@ -16,6 +16,9 @@ To set a control's Manipulator, select the object, go the attribute editor, sele
 
 ![Snap](https://cdn.discordapp.com/attachments/569400960988872704/887929028860846120/c25O1wdtus.gif)
 
+Each time you select nothing
+Then select a controller, it will then change the manipulator
+
 # Installation 
 
 Create shelf buttons: RMB > Edit > Add Button > Copy Paste Code > Set to "Python"
