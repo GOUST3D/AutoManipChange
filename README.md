@@ -1,5 +1,3 @@
-![Snap](https://cdn.discordapp.com/attachments/569400960988872704/887929028860846120/c25O1wdtus.gif)
-
 # AutoManipChange
 Script to change the manipulator, on selection, to a default one set for each controller 
 
@@ -15,6 +13,8 @@ https://www.reddit.com/r/Maya/comments/33c1ue/default_manipulators_for_controls/
 To set a control's Manipulator, select the object, go the attribute editor, select the left most transform, open display and change:
 
 ![Snap](https://cdn.discordapp.com/attachments/569400960988872704/887929042353934357/8BnT1iVrL2.gif)
+
+![Snap](https://cdn.discordapp.com/attachments/569400960988872704/887929028860846120/c25O1wdtus.gif)
 
 # Installation 
 
