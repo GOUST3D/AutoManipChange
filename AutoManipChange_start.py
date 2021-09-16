@@ -20,4 +20,4 @@ class AutoManipChange():
 			mel.eval("ScaleTool;")
 			return
 
-AutoManipChangeScriptJob = cmds.scriptJob( ct= ["SelectionChanged","AutoManipChange()"], protected=True, kws=True)
+AutoManipChangeScriptJob = cmds.scriptJob( ct= ["SomethingSelected","AutoManipChange()"], protected=True, kws=True)
